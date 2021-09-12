@@ -2,7 +2,7 @@
 This Repository is having all the codes used in AI/ML internship by ETG.
 
 ### Overview
- We learn about how to build Summer Olympics Project and how to solve the Project in it.
+ We learn about how to build Summer Olympics Project and how to solve and analysis the Project in it.
 
 ### All Files
  1. summer.csv

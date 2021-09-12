@@ -4,7 +4,7 @@ This Repository is having all the codes used in AI/ML internship by ETG.
 ### Overview
  We learn about how to build Summer Olympics Project and how to solve and analysis the Project in it.
 
-###Introduction
+### Introduction
 This was the Assignment from Elite Techno group. In this, I have to solve the following questions-
 
 1. In how many cities Summer Olympics is held so far?

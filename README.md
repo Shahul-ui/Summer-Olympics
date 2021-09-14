@@ -18,7 +18,7 @@ This was the Assignment from Elite Techno group. In this, I have to solve the fo
 
 ### All Files
  1. summer.csv
- 2. Summer.py
+ 2. Summer.ipynb
 
 ### About Project
 For Data Analysis, Pandas is used. The raw data of summer olympic and questions is given from our instructor. We have to give the answers and also plot graph in some.
